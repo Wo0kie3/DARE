@@ -12,6 +12,8 @@ env/
 
 # Data (local / experimental)
 data/
+results/
+outrankings/
 
 # OS
 .DS_Store

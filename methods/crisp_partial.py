@@ -1,6 +1,6 @@
 import pulp
 import numpy as np
-from methods.util import RELATION_SCORES, get_relation
+from methods.const import RELATION_SCORES, get_relation
 
 
 def crisp_partial_pulp(credibility, output=False, solver=None):
